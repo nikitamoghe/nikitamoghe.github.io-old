@@ -7,7 +7,7 @@
 </div>
 
 # Workshop
-I attended Microsoft Research India's Worskhop on Artificial Social Intelligence 2017. Our team was involved in the development of project titled - <strong>HollyChat!- Domain Specific Conversational Systems</strong>. You can find the project details and presentation video <a href="https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents/"> here</a>.
+I attended Microsoft Research India's Worskhop on Artificial Social Intelligence 2017. Our team was involved in the development of project titled - <strong>HollyChat!- Domain Specific Conversational Systems</strong>. The project details and presentation video can be found <a href="https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents/"> here</a>.
 
 # Academic Details
 I have completed my B.E. from Sardar Patel Institute of Technology, University of Mumbai in Computer Engineering in 2016 (C.G.P.A: 9.53/10).
