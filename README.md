@@ -5,6 +5,10 @@
 # About Me
 <div style = "text-align: justify"> I am guided by <a href="http://www.cse.iitm.ac.in/~ravi/">Dr. Balaraman Ravindran</a> and <a href="http://www.cse.iitm.ac.in/~miteshk/">Dr. Mitesh M. Khapra</a>. My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems.
 </div>
+## Publications
+* *Towards Exploiting Background Knowledge for Building Conversation Systems*, Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, In the Proceedings of Empirical Methods in Natural Language Processing (EMNLP), 2018.
+
+* [*A Dataset for building Code-Mixed Goal Oriented Conversation Systems*](https://aclanthology.coli.uni-saarland.de/papers/C18-1319/c18-1319), Suman Banerjee, Nikita Moghe, Siddhartha Arora and Mitesh M. Khapra, In the Proceedings of the 27th International Conference on Computational Linguistics, COLING, 2018.
 
 # Summer School
 I participated in Microsoft Research India's Worskhop on Artificial Social Intelligence 2017. Our team was involved in the development of project titled - <strong>HollyChat! Domain Specific Conversational Systems</strong>. The project details and the presentation video can be found <a href="https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents/"> here</a>.
