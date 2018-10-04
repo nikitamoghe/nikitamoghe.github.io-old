@@ -10,7 +10,7 @@
 * [*Towards Exploiting Background Knowledge for Building Conversation Systems*](https://arxiv.org/abs/1809.08205), Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, In the Proceedings of Empirical Methods in Natural Language Processing (EMNLP), 2018.
 
 * [*A Dataset for building Code-Mixed Goal Oriented Conversation Systems*](https://aclanthology.coli.uni-saarland.de/papers/C18-1319/c18-1319), Suman Banerjee, Nikita Moghe, Siddhartha Arora and Mitesh M. Khapra, In the Proceedings of the 27th International Conference on Computational Linguistics, COLING, 2018.
-
+ [[ data and code]](https://github.com/sumanbanerjee1/Code-Mixed-Dialog) [[poster]](https://drive.google.com/open?id=1KDNyjtYuDL4CveNlOVOJaoQxbHniu-G4)
 # Summer School
 I participated in Microsoft Research India's Worskhop on Artificial Social Intelligence 2017. Our team was involved in the development of project titled - <strong>HollyChat! Domain Specific Conversational Systems</strong>. The project details and the presentation video can be found <a href="https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents/"> here</a>.
 
