@@ -3,7 +3,7 @@
 
 </head>
 # About Me
-<div style = "text-align: justify"> I am guided by <a href="http://www.cse.iitm.ac.in/~ravi/">Dr. Balaraman Ravindran</a> and <a href="http://www.cse.iitm.ac.in/~miteshk/">Dr. Mitesh M. Khapra</a>. My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems.
+<div style = "text-align: justify"> I am guided by <a href="http://www.cse.iitm.ac.in/~ravi/">Dr. Balaraman Ravindran</a> and <a href="http://www.cse.iitm.ac.in/~miteshk/">Dr. Mitesh M. Khapra</a>. My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks.
 </div>
 
 # Publications
@@ -14,7 +14,7 @@
 * [*A Dataset for building Code-Mixed Goal Oriented Conversation Systems*](https://aclanthology.coli.uni-saarland.de/papers/C18-1319/c18-1319), Suman Banerjee, Nikita Moghe, Siddhartha Arora and Mitesh M. Khapra, In the Proceedings of the 27th International Conference on Computational Linguistics, COLING, 2018. <br/> [[data and code]](https://github.com/sumanbanerjee1/Code-Mixed-Dialog) [[poster]](https://drive.google.com/open?id=1KDNyjtYuDL4CveNlOVOJaoQxbHniu-G4)
 
 # Talks
-* Goal Oriented Dialog Systems <br/>
+* <span style="color:blue;">Goal Oriented Dialog Systems</span>  <br/>
 Topics in Deep Learning, IIT Madras [[slides]](https://drive.google.com/open?id=18KtQ_RMxBdeO9k2BXdd8oGF9WVZK6lTE)
 * Revisiting Neural Conversation Models <br/>
 Topics in Deep Learning, IIT Madras [[slides]](https://drive.google.com/open?id=16KLkTsdb77imOcOKR--LOqTkRhBN7AUi)
