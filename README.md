@@ -14,11 +14,11 @@
 * [*A Dataset for building Code-Mixed Goal Oriented Conversation Systems*](https://aclanthology.coli.uni-saarland.de/papers/C18-1319/c18-1319), Suman Banerjee, Nikita Moghe, Siddhartha Arora and Mitesh M. Khapra, In the Proceedings of the 27th International Conference on Computational Linguistics, COLING, 2018. <br/> [[data and code]](https://github.com/sumanbanerjee1/Code-Mixed-Dialog) [[poster]](https://drive.google.com/open?id=1KDNyjtYuDL4CveNlOVOJaoQxbHniu-G4)
 
 # Talks
-* <span style="color:blue;">Goal Oriented Dialog Systems</span>  <br/>
+* **Goal Oriented Dialog Systems**  <br/>
 Topics in Deep Learning, IIT Madras [[slides]](https://drive.google.com/open?id=18KtQ_RMxBdeO9k2BXdd8oGF9WVZK6lTE)
-* Revisiting Neural Conversation Models <br/>
+* **Revisiting Neural Conversation Models** <br/>
 Topics in Deep Learning, IIT Madras [[slides]](https://drive.google.com/open?id=16KLkTsdb77imOcOKR--LOqTkRhBN7AUi)
-* HollyChat! Domain Specific Conversational Systems <br/>
+* **HollyChat! Domain Specific Conversational Systems** <br/>
  Worskhop on Artificial Social Intelligence 2017, Microsoft Research India [[video]](https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents)
 
 # Academic Details
