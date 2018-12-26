@@ -7,7 +7,7 @@
 </div>
 
 # Publications
-* [*Towards Exploiting Background Knowledge for Building Conversation Systems*](https://arxiv.org/abs/1809.08205), Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, To appear in the Proceedings of Empirical Methods in Natural Language Processing (EMNLP), 2018.<br/>
+* [*Towards Exploiting Background Knowledge for Building Conversation Systems*](https://aclanthology.coli.uni-saarland.de/papers/D18-1255/d18-1255), Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, (EMNLP 2018)<br/>
 [[data and code]](https://github.com/nikitacs16/Holl-E) [[poster]](https://drive.google.com/open?id=18qv64o8MW2NmuJCU9AVPryEMaBc4ntga) [[slides]](https://docs.google.com/presentation/d/15C8sV26mHTHHauZ-Lx6w2ApFXutCiDjEpU3ZSGUFpGo/edit#slide=id.p) [[video]](https://vimeo.com/305939688)
 
 
