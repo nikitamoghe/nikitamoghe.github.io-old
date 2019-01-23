@@ -29,7 +29,22 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-        {%- include share.html -%}
+        <div class="sharebuttons">
+        <hr />
+          <ul>
+        <p> Display </p>
+            <li class="twitter">
+          <a href="https://twitter.com/intent/tweet?via=USERNAME&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&text={{ page.title | default:"" | uri_escape}}" target="_blank">
+            {% include social/share-icon-twitter.svg %}
+          </a>
+        </li>
+        <li class="linkedin">
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape}}" target="_blank">
+            {% include social/share-icon-linkedin.svg %}
+          </a>
+        </li>
+      </ul>
+</div
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
