@@ -3,7 +3,7 @@
 
 </head>
 # About Me
-<div style = "text-align: justify"> I am guided by <a href="http://www.cse.iitm.ac.in/~ravi/">Dr. Balaraman Ravindran</a> and <a href="http://www.cse.iitm.ac.in/~miteshk/">Dr. Mitesh M. Khapra</a>. My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks.
+<div style = "text-align: justify"> I am jointly advised by <a href="http://www.cse.iitm.ac.in/~ravi/">Dr. Balaraman Ravindran</a> and <a href="http://www.cse.iitm.ac.in/~miteshk/">Dr. Mitesh M. Khapra</a>. My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks.
 </div>
 
 # Publications
