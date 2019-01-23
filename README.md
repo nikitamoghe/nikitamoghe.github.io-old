@@ -3,8 +3,8 @@
 
 </head>
 # About Me
-I am jointly advised by [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra] (http://www.cse.iitm.ac.in/~miteshk/). My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks. 
-I am associated with Robert Bosch Centre for Data Science and Artificial Intelligence [(RBCDSAI)] (https://rbc-dsai.iitm.ac.in/) at IIT Madras. 
+I am jointly advised by [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/). My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks. 
+I am associated with Robert Bosch Centre for Data Science and Artificial Intelligence [(RBCDSAI)](https://rbc-dsai.iitm.ac.in/) at IIT Madras. 
 
 
 # Publications
@@ -23,4 +23,4 @@ Topics in Deep Learning, IIT Madras [[slides]](https://drive.google.com/open?id=
  Worskhop on Artificial Social Intelligence 2017, Microsoft Research India [[video]](https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents)
 
 
-[CV](https://drive.google.com/open?id=1-nJ2E4Urp5huLrgRNWdCu1NwR7JkFw0j)
+[**CV**](https://drive.google.com/open?id=1-nJ2E4Urp5huLrgRNWdCu1NwR7JkFw0j)
