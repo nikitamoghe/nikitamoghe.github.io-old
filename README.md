@@ -24,7 +24,4 @@ Topics in Deep Learning, IIT Madras [[slides]](https://drive.google.com/open?id=
 # Academic Details
 I have completed my B.E. from Sardar Patel Institute of Technology, University of Mumbai in Computer Engineering in 2016 
 
-# Contact:
-<p> cs16s016 [at] cse[dot]iitm[dot]ac[dot]in </p>
-<p> nikitamoghe29 [at] gmail[dot]com </p>
 [Resume](https://drive.google.com/open?id=1ZCHX2NQiucff56k4PdJSEKFeP5iR4ajI)
