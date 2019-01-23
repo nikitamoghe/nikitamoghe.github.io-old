@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 .sharebuttons {
-  margin: 0 auto 0 auto;
+  margin: auto auto auto auto;
 }
 
 .sharebuttons ul {
@@ -20,8 +20,8 @@
 }
 
 .sharebuttons ul li svg {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
 }
 
 .sharebuttons .reddit svg {
