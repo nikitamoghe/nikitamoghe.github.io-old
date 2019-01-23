@@ -3,10 +3,8 @@
 
 </head>
 # About Me
-<div style = "text-align: justify"> I am jointly advised by <a href="http://www.cse.iitm.ac.in/~ravi/">Dr. Balaraman Ravindran</a> and <a href="http://www.cse.iitm.ac.in/~miteshk/">Dr. Mitesh M. Khapra</a>. My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks. 
-I am associated with Robert Bosch Centre for Data Science and Artificial Intelligence <a href="https://rbc-dsai.iitm.ac.in/">(RBCDSAI)</a> at IIT Madras. 
-<br>
-</div>
+I am jointly advised by [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra] (http://www.cse.iitm.ac.in/~miteshk/). My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks. 
+I am associated with Robert Bosch Centre for Data Science and Artificial Intelligence [(RBCDSAI)] (https://rbc-dsai.iitm.ac.in/) at IIT Madras. 
 
 
 # Publications
