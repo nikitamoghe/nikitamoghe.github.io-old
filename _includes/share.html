@@ -1,6 +1,7 @@
 <div class="sharebuttons">
   <hr />
   <ul>
+    <p> Display </p>
     <li class="reddit">
       <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape }}" target="_blank">
         {% include social/share-icon-reddit.svg %}
