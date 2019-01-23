@@ -23,4 +23,4 @@ Topics in Deep Learning, IIT Madras [[slides]](https://drive.google.com/open?id=
  Worskhop on Artificial Social Intelligence 2017, Microsoft Research India [[video]](https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents)
 
 
-[Resume](https://drive.google.com/open?id=1ZCHX2NQiucff56k4PdJSEKFeP5iR4ajI)
+[CV](https://drive.google.com/open?id=1-nJ2E4Urp5huLrgRNWdCu1NwR7JkFw0j)
