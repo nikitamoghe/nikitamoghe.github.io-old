@@ -6,7 +6,7 @@
 <div style = "text-align: justify"> I am jointly advised by <a href="http://www.cse.iitm.ac.in/~ravi/">Dr. Balaraman Ravindran</a> and <a href="http://www.cse.iitm.ac.in/~miteshk/">Dr. Mitesh M. Khapra</a>. My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks. 
 I am associated with Robert Bosch Centre for Data Science and Artificial Intelligence <a href="http://www.cse.iitm.ac.in/~ravi/">(RBC DSAI)</a> at IIT Madras. 
 </div>
-</br>
+
 
 # Publications
 * [*Towards Exploiting Background Knowledge for Building Conversation Systems*](https://aclanthology.coli.uni-saarland.de/papers/D18-1255/d18-1255), Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, (EMNLP 2018)<br/>
