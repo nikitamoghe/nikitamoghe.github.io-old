@@ -20,7 +20,7 @@ Topics in Deep Learning, IIT Madras [[slides]](https://drive.google.com/open?id=
 * **Revisiting Neural Conversation Models** <br/>
 Topics in Deep Learning, IIT Madras [[slides]](https://drive.google.com/open?id=16KLkTsdb77imOcOKR--LOqTkRhBN7AUi)
 * **HollyChat! Domain Specific Conversational Systems** <br/>
- Worskhop on Artificial Social Intelligence 2017, Microsoft Research India [[video]](https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents)
+ Workshop on Artificial Social Intelligence 2017, Microsoft Research India [[video]](https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents)
 
 
 [**CV**](https://drive.google.com/open?id=1-nJ2E4Urp5huLrgRNWdCu1NwR7JkFw0j)
