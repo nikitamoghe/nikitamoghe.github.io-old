@@ -3,8 +3,10 @@
 
 </head>
 # About Me
-I am jointly advised by [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/). My research interests lie in the field of Natural Language Processing. I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks. 
-I am associated with Robert Bosch Centre for Data Science and Artificial Intelligence [(RBCDSAI)](https://rbc-dsai.iitm.ac.in/) at IIT Madras. 
+I am a first year student advised by Dr. Alexandra Birch. My research interests lie in the field of Natural Language Processing.
+
+I recently submitted my thesis 
+where I was jointly advised by [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/).  I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks. 
 
 
 # Publications
