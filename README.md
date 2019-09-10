@@ -3,10 +3,10 @@
 
 </head>
 # About Me
-I am a first year student advised by Dr. Alexandra Birch. My research interests lie in the field of Natural Language Processing.
+I am a first year PhD candidate at CDT in NLP, School of Informatics, University of Edinburgh advised by Dr. Alexandra Birch. My research interests lie in the field of Natural Language Processing. I will be exploring the area of Multi-lingual Dialogue Systems.
 
-I recently submitted my thesis 
-where I was jointly advised by [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/).  I am currently working on incorporating information from unstructured data in Dialogue Systems. I have recently started exploring incorporation of linguistic structures such as dependency graphs to improve performance on NLP tasks. 
+I recently submitted my thesis for my Masters degree at the Indian Institute of Technology Madras 
+where I was jointly advised by [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/). My thesis involved working on incorporating information from unstructured data in dialogue systems.  
 
 
 # Publications
