@@ -25,4 +25,4 @@ Topics in Deep Learning, IIT Madras [[slides]](https://drive.google.com/open?id=
  Workshop on Artificial Social Intelligence 2017, Microsoft Research India [[video]](https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents)
 
 
-[**CV**](https://drive.google.com/open?id=1-nJ2E4Urp5huLrgRNWdCu1NwR7JkFw0j)
+[**CV**](nikitamoghe.github.io/assets/Nikita_Moghe_CV_Sept_19.pdf)
