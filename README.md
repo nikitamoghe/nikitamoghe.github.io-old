@@ -10,7 +10,7 @@ where I was jointly advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.a
 
 
 # Publications
-* [*On Incorporating Structural Information to improve Dialogue Response Generation*](nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf)  Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran and Mitesh M. Khapra, To appear at Second Workshop on NLP for Conversational AI, ACL 2020, Extended abstract accepted at EurNLP 2019 <br/>
+* [*On Incorporating Structural Information to improve Dialogue Response Generation*](nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf), Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran and Mitesh M. Khapra, To appear at the Second Workshop on NLP for Conversational AI, ACL 2020, Extended abstract accepted at EurNLP 2019 <br/>
 [[data and code]](https://github.com/nikitacs16/horovod_gcn_pointer_generator) [[poster]](nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf) 
 
 * [*Towards Exploiting Background Knowledge for Building Conversation Systems*](https://www.aclweb.org/anthology/D18-1255/), Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP, 2018<br/>
@@ -22,10 +22,6 @@ where I was jointly advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.a
 # Talks
 * **Incorporating External Knowledge in Domain Specific Conversation Systems**  <br/>
 MS Seminar, 2019, IIT Madras [[slides]](https://docs.google.com/presentation/d/1Wnlz56VN1hXGwfs_X-ge4hJIuM4FoC75lK5MHw0oGMI/edit?usp=sharing)
-* **Goal Oriented Dialog Systems**  <br/>
-Topics in Deep Learning, 2018, IIT Madras [[slides]](https://drive.google.com/open?id=18KtQ_RMxBdeO9k2BXdd8oGF9WVZK6lTE)
-* **Revisiting Neural Conversation Models** <br/>
-Topics in Deep Learning, 2018, IIT Madras [[slides]](https://drive.google.com/open?id=16KLkTsdb77imOcOKR--LOqTkRhBN7AUi)
 * **HollyChat! Domain Specific Conversational Systems** <br/>
  Workshop on Artificial Social Intelligence 2017, Microsoft Research India [[video]](https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents)
 
