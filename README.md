@@ -9,7 +9,7 @@ Previously, I completed MS (by Research) [[Thesis]](nikitamoghe.github.io/assets
 where I was jointly advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/). My thesis involved incorporating information from unstructured data to improve dialogue systems. I was also associated with [RBC-DSAI](https://rbc-dsai.iitm.ac.in/). 
 
 
-# Publications
+# Publications/Preprints
 * [*On Incorporating Structural Information to improve Dialogue Response Generation*](https://arxiv.org/abs/2005.14315), Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran and Mitesh M. Khapra, Extended abstract accepted at EurNLP 2019 <br/>
 [[data and code]](https://github.com/nikitacs16/horovod_gcn_pointer_generator) [[poster]](nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf) 
 
