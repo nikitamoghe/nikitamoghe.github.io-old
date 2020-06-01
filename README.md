@@ -10,7 +10,7 @@ where I was jointly advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.a
 
 
 # Publications
-* [*On Incorporating Structural Information to improve Dialogue Response Generation*](nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf), Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran and Mitesh M. Khapra, Extended abstract accepted at EurNLP 2019 <br/>
+* [*On Incorporating Structural Information to improve Dialogue Response Generation*](https://arxiv.org/abs/2005.14315), Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran and Mitesh M. Khapra, Extended abstract accepted at EurNLP 2019 <br/>
 [[data and code]](https://github.com/nikitacs16/horovod_gcn_pointer_generator) [[poster]](nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf) 
 
 * [*Towards Exploiting Background Knowledge for Building Conversation Systems*](https://www.aclweb.org/anthology/D18-1255/), Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP, 2018<br/>
