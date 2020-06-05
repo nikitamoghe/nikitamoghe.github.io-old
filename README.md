@@ -5,12 +5,12 @@
 # About Me
 I am a first year PhD student at [CDT in NLP](https://edinburghnlp.inf.ed.ac.uk/cdt/), [School of Informatics](https://www.ed.ac.uk/informatics), [University of Edinburgh](https://www.ed.ac.uk/) advised by [Dr. Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/) and [Prof. Mark Steedman](http://homepages.inf.ed.ac.uk/steedman/). My research interests lie in the field of Natural Language Processing. I am associated with the [STATMT](http://www.statmt.org/ued/) group. I will be exploring the area of multilingual dialogue systems.
 
-Previously, I completed MS (by Research) [[Thesis]](nikitamoghe.github.io/assets/Thesis_Nikita_Moghe_CS16S016__Revision_2.pdf) from [Indian Institute of Technology Madras](https://www.iitm.ac.in/) 
-where I was jointly advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/). My thesis involved incorporating information from unstructured data to improve dialogue systems. I was also associated with [RBC-DSAI](https://rbc-dsai.iitm.ac.in/). 
+Previously, I completed MS (by Research) from [Indian Institute of Technology Madras](https://www.iitm.ac.in/) 
+where I was jointly advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/). My [thesis](nikitamoghe.github.io/assets/Thesis_Nikita_Moghe_CS16S016__Revision_2.pdf) involved incorporating information from unstructured data to improve dialogue systems. I was also associated with [RBC-DSAI](https://rbc-dsai.iitm.ac.in/). 
 
 
 # Publications/Preprints
-* [*On Incorporating Structural Information to improve Dialogue Response Generation*](https://arxiv.org/abs/2005.14315), Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran and Mitesh M. Khapra, Extended abstract accepted at EurNLP 2019 <br/>
+* [*On Incorporating Structural Information to improve Dialogue Response Generation*](https://arxiv.org/abs/2005.14315), Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran and Mitesh M. Khapra, To appear in the proceedings of the Second Workshop on NLP for Conversational AI, ACL 2020. Extended abstract accepted at EurNLP 2019 <br/>
 [[data and code]](https://github.com/nikitacs16/horovod_gcn_pointer_generator) [[poster]](nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf) 
 
 * [*Towards Exploiting Background Knowledge for Building Conversation Systems*](https://www.aclweb.org/anthology/D18-1255/), Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP, 2018<br/>
