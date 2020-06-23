@@ -10,8 +10,8 @@ where I was jointly advised by [Prof. Balaraman Ravindran](http://www.cse.iitm.a
 
 
 # Publications
-* [*On Incorporating Structural Information to improve Dialogue Response Generation*](https://arxiv.org/abs/2005.14315), Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran and Mitesh M. Khapra, To appear in the proceedings of the Second Workshop on NLP for Conversational AI, ACL 2020. Extended abstract accepted at EurNLP 2019 <br/>
-[[data and code]](https://github.com/nikitacs16/horovod_gcn_pointer_generator) [[poster]](nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf) 
+* [*On Incorporating Structural Information to improve Dialogue Response Generation*](https://www.aclweb.org/anthology/2020.nlp4convai-1.2/), Nikita Moghe, Priyesh Vijayan, Balaraman Ravindran and Mitesh M. Khapra, To appear in the proceedings of the Second Workshop on NLP for Conversational AI, ACL 2020. Extended abstract accepted at EurNLP 2019 <br/>
+[[data and code]](https://github.com/nikitacs16/horovod_gcn_pointer_generator) [[poster]](nikitamoghe.github.io/assets/GCN_Dialogue_EurNLP_Poster.pdf) [[slides]](https://docs.google.com/presentation/d/17e6CxD226L2RBSPZnLPMiQmuxXqrjH-4rvgWoR-JIqc/edit?usp=sharing)
 
 * [*Towards Exploiting Background Knowledge for Building Conversation Systems*](https://www.aclweb.org/anthology/D18-1255/), Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP, 2018<br/>
 [[data and code]](https://github.com/nikitacs16/Holl-E) [[poster]](nikitamoghe.github.io/assets/holl_e_emnlp_2018.pdf) [[slides]](https://docs.google.com/presentation/d/15C8sV26mHTHHauZ-Lx6w2ApFXutCiDjEpU3ZSGUFpGo/edit#slide=id.p) [[video]](https://vimeo.com/305939688)
