@@ -26,4 +26,4 @@ MS Seminar, 2019, IIT Madras [[slides]](https://docs.google.com/presentation/d/1
  Workshop on Artificial Social Intelligence 2017, Microsoft Research India [[video]](https://www.microsoft.com/en-us/research/video/hollychat-domain-specific-conversational-agents)
 
 
-[**CV**](nikitamoghe.github.io/assets/Nikita_Moghe_Resume_Sept_19.pdf)
+[**CV**](nikitamoghe.github.io/assets/Nikita_Moghe_CV_July_20.pdf)
